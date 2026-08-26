@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RobertsKE",
+      "hasCanvas": false,
+      "bodyTextLen": 5566,
+      "bodyTextHash": "d84e141b7ac22ff3d32a1064a3ffc88f60af0a09fea0fe8cf53de7bafa4aeac3",
+      "bodyTextPrefix": "Pay on delivery across Nairobi R ROBERTSKE Home Shop Categories ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RobertsKE",
+      "hasCanvas": false,
+      "bodyTextLen": 5249,
+      "bodyTextHash": "48cc2a5f11dfa697c83d1c8d0eaa8f1c29e3219ac73b18db78db8ce084f502b9",
+      "bodyTextPrefix": "Pay on delivery across Nairobi R ROBERTSKE LIVE FROM THE NAIROBI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
